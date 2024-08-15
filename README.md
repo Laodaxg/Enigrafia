@@ -1,5 +1,6 @@
 # Enigrafia
-![Captura de Pantalla 2024-08-14 a la(s) 7 50 45 p  m](https://github.com/user-attachments/assets/accf9a73-1d3e-4c29-82b6-3526f8301f1f)
+![Enigrafía](https://github.com/user-attachments/assets/7c990980-1091-4628-ad1d-18e73b06b88a)
+
 
 **Enigrafía** es un juego simple que permite encriptar y desencriptar texto usando un conjunto de reglas específicas. Esta herramienta convierte letras en combinaciones de caracteres para ocultar el contenido del texto.
 
@@ -14,6 +15,10 @@
 - Solo letras minúsculas y sin acentos son aceptadas.
 - La opción de copiar el texto encriptado/desencriptado al portapapeles.
 - Interfaz amigable con ventanas modales para notificaciones.
+
+  
+![Captura de Pantalla 2024-08-14 a la(s) 7 50 45 p  m](https://github.com/user-attachments/assets/accf9a73-1d3e-4c29-82b6-3526f8301f1f)
+
 
 ## Instalación
 
@@ -30,10 +35,21 @@
 ## Uso
 
 1. Encriptar: Escribe el texto en el campo de entrada y haz clic en el botón "Encriptar". El texto encriptado aparecerá en el área de resultados.
-     ![Aquí tu texto (1)](https://github.com/user-attachments/assets/2d430028-661c-4659-91a0-469510c0663a)
+
+     ![Paso 1](https://github.com/user-attachments/assets/307cc4eb-2652-4b5e-b2b5-55f91bc5b574)
+
+
 
 2. Desencriptar: Escribe el texto encriptado en el campo de entrada y haz clic en el botón "Desencriptar". El texto desencriptado aparecerá en el área de resultados.
+   
+    ![paso 2](https://github.com/user-attachments/assets/61829d5c-512f-4818-b830-1e14e65fc60e)
+
+
+
 3. Copiar: Haz clic en el botón "Copiar" para copiar el texto encriptado/desencriptado al portapapeles.
+
+
+    ![paso 3](https://github.com/user-attachments/assets/7b995601-a9df-4d0b-a45b-1aa22abe1357)
 
    
 ## Contribución
