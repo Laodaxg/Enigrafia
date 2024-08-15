@@ -62,11 +62,11 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
         git checkout -b feature/nueva-caracteristica
 3. Realiza tus cambios y haz commit:
        ```bash
-            git commit -am 'Agrega nueva característica'```
+             ```git commit -am 'Agrega nueva característica'
 5. Envía tus cambios a tu fork:
        ```bash
-             git push origin feature/nueva-caracteristica```
-6. Crea un pull request desde tu fork al repositorio original.
+         ```git push origin feature/nueva-caracteristica
+7. Crea un pull request desde tu fork al repositorio original.
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
