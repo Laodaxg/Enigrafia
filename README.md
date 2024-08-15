@@ -75,9 +75,10 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 ## Recursos
-HTML: index.html
-CSS: styles.css
-JavaScript: cipher.js
+- **HTML:** index.html
+- **CSS:** styles.css
+- **JavaScript:** cipher.js
+
         
 
 
