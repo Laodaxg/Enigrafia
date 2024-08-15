@@ -30,7 +30,7 @@
 ## Uso
 
 1. Encriptar: Escribe el texto en el campo de entrada y haz clic en el botón "Encriptar". El texto encriptado aparecerá en el área de resultados.
-     <img src="![Aquí tu texto (1)](https://github.com/user-attachments/assets/2d430028-661c-4659-91a0-469510c0663a)" alt="indicacion de paso1" width="300"/>
+     ![Aquí tu texto (1)](https://github.com/user-attachments/assets/2d430028-661c-4659-91a0-469510c0663a)
 
 2. Desencriptar: Escribe el texto encriptado en el campo de entrada y haz clic en el botón "Desencriptar". El texto desencriptado aparecerá en el área de resultados.
 3. Copiar: Haz clic en el botón "Copiar" para copiar el texto encriptado/desencriptado al portapapeles.
