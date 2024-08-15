@@ -3,7 +3,7 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - main  # O la rama principal que estés utilizando
+      - main 
 
 jobs:
   build:
