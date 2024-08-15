@@ -45,9 +45,9 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 1. Haz un fork del repositorio.
 2. Crea una rama para tu nueva característica o corrección:
 ```bash
-git checkout -b feature/nueva-caracteristica```
+git checkout -b feature/nueva-caracteristica
 
-Realiza tus cambios y haz commit:
+3. Realiza tus cambios y haz commit:
 bash
 Copiar código
 git commit -am 'Agrega nueva característica'
