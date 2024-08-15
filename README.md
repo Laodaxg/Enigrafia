@@ -47,20 +47,4 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 ```bash
 git checkout -b feature/nueva-caracteristica
 
-3. Realiza tus cambios y haz commit:
-bash
-Copiar código
-git commit -am 'Agrega nueva característica'
-Envía tus cambios a tu fork:
-bash
-Copiar código
-git push origin feature/nueva-caracteristica
-Crea un pull request desde tu fork al repositorio original.
-Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-Recursos
-HTML: index.html
-CSS: styles.css
-JavaScript: cipher.js
 
