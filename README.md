@@ -1,9 +1,5 @@
 # Enigrafia
-Este es un juego para encriptar y desencriptar palabras, oraciones o parrafos.
-
 ![Captura de Pantalla 2024-08-14 a la(s) 7 50 45 p  m](https://github.com/user-attachments/assets/accf9a73-1d3e-4c29-82b6-3526f8301f1f)
-
-# Enigrafía
 
 **Enigrafía** es un juego simple que permite encriptar y desencriptar texto usando un conjunto de reglas específicas. Esta herramienta convierte letras en combinaciones de caracteres para ocultar el contenido del texto.
 
@@ -44,7 +40,24 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 1. Haz un fork del repositorio.
 2. Crea una rama para tu nueva característica o corrección:
-```bash
-git checkout -b feature/nueva-caracteristica
+      ```bash
+        git checkout -b feature/nueva-caracteristica
+3. Realiza tus cambios y haz commit:
+       ```bash
+            git commit -am 'Agrega nueva característica'
+5. Envía tus cambios a tu fork:
+       ```bash
+             git push origin feature/nueva-caracteristica
+6. Crea un pull request desde tu fork al repositorio original.
+
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+## Recursos
+HTML: index.html
+CSS: styles.css
+JavaScript: cipher.js
+        
+
 
 
