@@ -1,6 +1,8 @@
 # Enigrafia
 Este es un juego para encriptar y desencriptar palabras, oraciones o parrafos.
 
+![Captura de Pantalla 2024-08-14 a la(s) 7 50 45 p  m](https://github.com/user-attachments/assets/accf9a73-1d3e-4c29-82b6-3526f8301f1f)
+
 # Enigrafía
 
 **Enigrafía** es un juego simple que permite encriptar y desencriptar texto usando un conjunto de reglas específicas. Esta herramienta convierte letras en combinaciones de caracteres para ocultar el contenido del texto.
@@ -23,27 +25,28 @@ Este es un juego para encriptar y desencriptar palabras, oraciones o parrafos.
    ```bash
    git clone https://github.com/Laodaxg/Enigrafia.git
 
+2. Navega al directorio del proyecto:
+   ```bash
+   cd Enigrafia
 
+3. Abre el archivo `index.html` en tu navegador para ver la aplicación en funcionamiento.
 
-Navega al directorio del proyecto:
+## Uso
 
-bash
-Copiar código
-cd Enigrafia
-Abre el archivo index.html en tu navegador para ver la aplicación en funcionamiento.
+1. Encriptar: Escribe el texto en el campo de entrada y haz clic en el botón "Encriptar". El texto encriptado aparecerá en el área de resultados.
+2. Desencriptar: Escribe el texto encriptado en el campo de entrada y haz clic en el botón "Desencriptar". El texto desencriptado aparecerá en el área de resultados.
+3. Copiar: Haz clic en el botón "Copiar" para copiar el texto encriptado/desencriptado al portapapeles.
 
-Uso
-Encriptar: Escribe el texto en el campo de entrada y haz clic en el botón "Encriptar". El texto encriptado aparecerá en el área de resultados.
-Desencriptar: Escribe el texto encriptado en el campo de entrada y haz clic en el botón "Desencriptar". El texto desencriptado aparecerá en el área de resultados.
-Copiar: Haz clic en el botón "Copiar" para copiar el texto encriptado/desencriptado al portapapeles.
-Contribución
+   
+## Contribución
+
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
-Haz un fork del repositorio.
-Crea una rama para tu nueva característica o corrección:
-bash
-Copiar código
-git checkout -b feature/nueva-caracteristica
+1. Haz un fork del repositorio.
+2. Crea una rama para tu nueva característica o corrección:
+```bash
+git checkout -b feature/nueva-caracteristica```
+
 Realiza tus cambios y haz commit:
 bash
 Copiar código
