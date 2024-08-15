@@ -27,7 +27,7 @@ main{
 }
 
     .text-area::placeholder {
-        color: #ffffff; /* Color del placeholder */
+        color: #ffffff; 
         opacity: 1;
     }
 
@@ -53,9 +53,9 @@ main{
         padding-left: 40px;
         padding-top: 250px;
         position: fixed;
-        width: 398px; /* Asegura que el textarea tenga un ancho adecuado */
-        height: auto; /* Ajusta según sea necesario */
-        box-sizing: border-box; /* Incluye el padding dentro del width y height */
+        width: 398px; 
+        height: auto;
+        box-sizing: border-box;
     }
 
     .mensaje:focus {
@@ -112,7 +112,7 @@ main{
 
 /* El fondo de la ventana modal */
 .modal {
-    display: none; /* Oculto por defecto */
+    display: none; 
     position: fixed;
     z-index: 1;
     left: 0;
@@ -154,7 +154,7 @@ main{
     top: 50px;
     right: 110px;
     cursor: pointer;
-    border: 2px solid #293241; /* Añade un borde alrededor del círculo */
+    border: 2px solid #293241; 
 }
 
 .close:hover,
@@ -253,8 +253,8 @@ html, body {
   }
   
   footer p {
-    margin: 0; /* Quita el margen por defecto de los párrafos */
-    line-height: 1.6; /* Ajusta el espaciado entre renglones */
+    margin: 0; 
+    line-height: 1.6; 
     font-size: 20px;
   }
   
