@@ -1,4 +1,4 @@
- *{
+*{
     background-color: #ee6c4d;
     font-family: "Inter";
     font-weight: 400;
@@ -94,11 +94,10 @@ main{
     border-radius: 25px;
     color: #293241;
     cursor: pointer;
-    height: 90px;
+    height: 67px;
     margin-left: 128px;
     margin-top: 650px;
-    position: absolute;
-    height: 67px;
+    position: relative;
     width: 328px;
 }
 
@@ -244,12 +243,13 @@ html, body {
   
   /* Pie de página */
   footer {
+    background-color: none;
     color: #fff;
     text-align: center;
     padding: 10px;
     position: relative;
     bottom: 0;
-    width: 100%; /* Cambia el ancho al 100% para ocupar todo el ancho de la página */
+    width: 50%; 
   }
   
   footer p {
