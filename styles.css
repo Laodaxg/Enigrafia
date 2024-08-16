@@ -42,7 +42,7 @@ main{
 }
     .mensaje{
         background: #98c1d9;
-        background-image: url(Muñeco.png);
+        background-image: url(muneco.png);
         background-repeat: no-repeat;
         background-position: center top;
         border: none;
